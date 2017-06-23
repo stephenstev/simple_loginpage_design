@@ -134,3 +134,22 @@ width:100%;
     font-size: 20px;
 
 }
+
+.cmd{
+    text-align: center;
+    height:100%;
+    margin:10px;
+    padding: 60px;
+    width:48%;
+    float:left;   
+    
+}
+
+.cmd input[type="text"]{
+width: 70%;
+
+}
+
+.cmd button{
+    width: 50%;
+}
