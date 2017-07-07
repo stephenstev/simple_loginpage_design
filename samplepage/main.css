@@ -21,21 +21,23 @@
     background-color: lightgray;
 }
 .wrapper{
-    height:500px;
+    height:700px;
     width:90%;
     margin:0px auto;
 }
 
 .text{
+border:5px black solid;
     text-align: center;
-    height:100%;
+    height:70%;
     width:48%;
     float:left;
-    margin: 10px auto;
+    margin-top: 100px;
     font-size: 60px;
     padding:30px;
     box-shadow: 1px 1px 10px gray;
     border-radius: 30px;
+    text-shadow: 2px 1px white;
 }
 
 .text a{
@@ -50,8 +52,8 @@
 
 .imag{
     text-align: center;
-    height:100%;
-    margin:10px;
+    height:70%;
+    margin-top: 100px;
     padding: 60px;
     width:48%;
     float:left;   
@@ -140,7 +142,7 @@ width:100%;
 .cmd{
     text-align: center;
     height:100%;
-    margin:10px;
+    margin-top:100px;
     padding: 60px;
     width:48%;
     float:left;   
@@ -157,36 +159,41 @@ width: 70%;
 }
 
 .cond{
-    border:10px;
-    padding:150px;
+    border:5px;
+    padding:130px;
     font-size: 23px;
-    height: 100%;
+    height: 80%;
     width: 48%;
     float: left;
     margin: 10px auto;
-    text-align: center;
+    text-align: left;
     color:blue;
+    text-align: justify;
+
+    margin-top: 100px;
     
 }
 
 .cond1{
     text-align: center;
-    height:100%;
-    width:48%;
+    height:80%;
+    width:50%;
     float:left;
-    margin: 10px auto;
+    margin-top: 100px;
     font-size: 20px;
     padding:30px;
+    border:5px black solid;
     border-radius: 30px;
+    text-shadow: 2px 1px lightcyan;
          box-shadow: 1px 1px 10px gray;
 }
 
 .abt{
-    margin: 10px;
+    border: 5px black solid;
     padding:80px;
     font-size:60px;
     text-align: center;
-    text-shadow:20px;
+    text-shadow:2px 1px lightcyan;
         border-radius: 30px;
     border-bottom-color: black;
     
